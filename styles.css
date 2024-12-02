@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background: url('background.jpg') no-repeat center center fixed;
+    background: #CB9DF0;
     background-size: cover;
     display: flex;
     justify-content: center;
@@ -25,7 +25,7 @@ body {
     display: flex;
     width: 80%;
     max-width: 900px;
-    background: rgba(255, 255, 255, 0.9);
+    background: #F0C1E1;
     border-radius: 15px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
     overflow: hidden;
